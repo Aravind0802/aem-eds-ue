@@ -1,6 +1,7 @@
 {
   "mappings": [
-    "/content/wknd-eds-learning/:/"
+    "/content/wknd-eds-learning/:/",
+    "/content/wknd-eds-learning/redirects:/redirects.json"
   ],
   "includes": [
     "/content/wknd-eds-learning/"
